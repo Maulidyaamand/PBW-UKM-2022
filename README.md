@@ -6,6 +6,6 @@ Unit Kegiatan Mahasiswa atau disingkat dengan UKM merupakan lembaga kemahasiswaa
 Dengan Adanya website ini diharapkan dapat memberikan informasi kepada para mahasiswa yang ingin mengikuti UKM di Universitas Syiah Kuala.
 
 # Developer Member Team
--Maulidya Amanda Putri (2008107010007)
--Syarifah Fathimah Azzahra (2008107010011)
+Maulidya Amanda Putri (2008107010007)
+Syarifah Fathimah Azzahra (2008107010011)
 
