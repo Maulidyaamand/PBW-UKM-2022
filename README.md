@@ -1,5 +1,5 @@
 <section id="lokal">
-<img src="public\images\logo.png" width="400">
+<img src="public\images\logo.png" width="100">
 
 ## About UKM-Universitas Syiah Kuala
 
